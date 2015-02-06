@@ -15,7 +15,7 @@
            remote="aosp"
            sync-j="4" />
            
-  <project path="manifest" name="AOSPA/manifest" remote="github" revision="skylab" />         
+  <project path="manifest" name="SkyLabTeam/manifest" remote="github" revision="skylab" />         
   
   <project path="build" name="SkyLabTeam/android_build" remote="github" revision="skylab" >
     <copyfile src="core/root.mk" dest="Makefile" />
